@@ -1,0 +1,67 @@
+@import "tailwindcss";
+* {
+  scrollbar-color: var(--color-dark-100) var(--color-black);
+}
+
+html {
+  width: 100%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+body {
+  overflow-x: hidden;
+  background-color: #000;
+  color: var(--color-dark-100);
+  font-family: var(--font-semibold);
+}
+.line1{
+  font-family: 'Edu NSW ACT Cursive', cursive;
+}
+.mobilemenu{
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    height: 100vh;
+    right: 0;
+    transform: translateX(100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+    justify-content: center;       
+    transition: all 0.5s ;
+    gap: 50px;
+    background-color: rgba(0, 0, 0, 0.915);
+}
+.activemobile{
+    transform: translateX(0%);
+}
+.activeham .ham:nth-child(1){
+    transform: rotate(45deg);
+    position: relative;
+    top: 8px;
+}
+.activeham .ham:nth-child(2){
+    opacity: 0;
+}
+.activeham .ham:nth-child(3){
+    transform: rotate(-45deg);
+    position: relative;
+    top: -11px;
+
+}
+.hide-scrollbar{
+  -ms-overflow-style:none;
+  scrollbar-width: none;
+   background: radial-gradient(
+    circle,
+    rgba(115, 12, 50, 1) 5%,
+    rgba(13, 12, 12, 1) 60%
+  );
+}
+
+
+
+
+
+
+
