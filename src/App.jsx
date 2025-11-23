@@ -3,7 +3,7 @@ import Home from "./components/home.jsx"
 import About from "./components/about.jsx"
 import Projects from "./components/projects.jsx"
 import Contact from "./components/contact.jsx"
-import TechStack from "./components/techStack.jsx"
+import TechStack from "./components/techstack.jsx"
 import Footer from "./components/footer.jsx"
 
 const App = () => {
