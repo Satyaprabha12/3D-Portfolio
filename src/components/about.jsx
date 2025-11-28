@@ -24,7 +24,7 @@ const features = [
   },
   {
     id: 2,
-    highlight: "experienced",
+    highlight: "experience",
     text: (<ul className="list-disc ml-5 ">
              <li><span className="text-pink-500 font-semibold uppercase">role: </span>Software Developer Intern</li>
               <li><span className="text-pink-500 font-semibold uppercase">duration: </span>1 YEAR</li>
