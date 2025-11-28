@@ -25,7 +25,7 @@ const footer = () => {
                     <a href="https://www.linkedin.com/in/satyaprabha-yadav-8a7054306/" target="_blank" rel="noopener noreferrer"
                         className="text-pink-500 hover:text-[#0077B5] hover:scale-125 transition-all duration-300">
                         <FaLinkedin /></a>
-                    <a href="https://instagram.com/prxbhx_" target="_blank" rel="noopener noreferrer"
+                    <a href="https://instagram.com" target="_blank" rel="noopener noreferrer"
                         className="relative group w-8 h-8">
                         <FaInstagram className="relative w-full h-full z-20 text-pink-500 group-hover:text-white hover:scale-110 transition-all duration-300" />
                         <span className="absolute inset-0 bg-linear-to-tr from-[#f58529] via-[#dd2a7b] to-[#8134af] opacity-0 group-hover:opacity-100 rounded-md hover:scale-110 transition-all duration-300"></span>
