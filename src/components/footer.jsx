@@ -66,7 +66,7 @@ const footer = () => {
 
                         <p
                             className="
-        uppercase md:text-lg text-white
+        uppercase md:text-lg text-sm text-white
         transition-all duration-500
         -translate-x-5 xl:translate-x-0 
         group-hover:text-black group-hover:-translate-x-5

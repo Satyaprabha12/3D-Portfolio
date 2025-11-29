@@ -50,7 +50,7 @@ useGSAP(()=>{
         <h1 className="md:text-6xl text-2xl mt-3 text-center font-serif font-bold bg-linear-to-l from-white to-pink-600 text-transparent bg-clip-text">Get in Touch!</h1>
       </div>
       <div className="flex flex-col md:flex-row w-full mt-10 gap-4 px-5 md:px-10">
-        <div id="3d-model" className="order-2 md:order-1 md:w-[65%] w-full min-h-96 mt-6 md:mt-0">
+        <div id="3d-model" className="order-2 md:order-1 md:w-[65%] w-full min-h-96 mt-6 md:mt-0 md:mb-0 mb-10">
         <div id="model-wrapper" className="w-full h-[520px] bg-pink-500/10 hover:cursor-grab rounded-3xl overflow-hidden mt-10">
          <ContactModel modelPath="/models/gaming_desktop_pc.glb" />
         </div>
