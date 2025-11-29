@@ -86,7 +86,7 @@ const footer = () => {
                                 xmlns="http://www.w3.org/2000/svg"
                                 width="24" height="24" fill="currentColor" viewBox="0 0 24 24"
                                 className="
-          size-5
+          size-5 md:right-0 right-2
           translate-y-0 xl:-translate-y-32 
           animate-bounce 
           transition-all duration-500
