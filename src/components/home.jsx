@@ -95,7 +95,7 @@ useGSAP(() => {
       }}>
         Hire Me <Mail size={18} />
       </button>
-      <a href="/CV.docx" className="flex items-center gap-1 text-white font-medium shadow-pink-400/50 hover:gap-2 hover:text-pink-400 hover:scale-110 transition-all duration-300 shadow-md hover:shadow-pink-400/50">
+      <a href="/Satyaprabha-Yadav-Resume.pdf" className="flex items-center gap-1 text-white font-medium shadow-pink-400/50 hover:gap-2 hover:text-pink-400 hover:scale-110 transition-all duration-300 shadow-md hover:shadow-pink-400/50">
         Download CV <FileDown size={20} />
       </a>
     </div>
