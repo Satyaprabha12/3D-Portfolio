@@ -56,7 +56,8 @@ useGSAP(()=>{
       liveLink={"https://kisansetu-frontend-dj4j.onrender.com/"}/>
       <Card title={"Advanced Virtual Assistant"} image={mernAI}
       info={"An advanced AI-powered virtual assistant built with the MERN stack which can perform automates tasks, and delivers personalized responses in real-time and has a responsive frontend"}
-      TechStack={["MongoDB" , "Express.JS", "React.JS", "Node.JS", "JWT Auth", "TailwindCSS", "REST API"]} />
+      TechStack={["MongoDB" , "Express.JS", "React.JS", "Node.JS", "JWT Auth", "TailwindCSS", "REST API"]} 
+      liveLink={"https://virtual-assistance-1.onrender.com"}/>
       <Card title={"Animated Protfolio"} image={animPortfolio}
       info={"An immersive animated portfolio crafted with React and GSAP, brought to life with lightweight Lottie animations for a fluid and modern user experience."}
       TechStack={["HTML", "CSS", "JavaScript", "ReactJS", "GSAP", "LottieFiles", "Responsive Frontend"]}/>
